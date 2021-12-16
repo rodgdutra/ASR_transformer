@@ -1,0 +1,3 @@
+[submodule "easy-speech-recognition"]
+	path = easy-speech-recognition
+	url = https://github.com/aldebaro/easy-speech-recognition
