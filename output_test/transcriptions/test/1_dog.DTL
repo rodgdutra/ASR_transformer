@@ -1,0 +1,9 @@
+NumberOfLabels = 1
+Labels = dog
+DataLocator.Type = JUST_FILE
+END_OF_HEADER
+/home/rodrigo/final_project/test_dataset/dog/3bfd30e6_nohash_0.wav
+/home/rodrigo/final_project/test_dataset/dog/3bdf05d3_nohash_0.wav
+/home/rodrigo/final_project/test_dataset/dog/3c1e12cf_nohash_0.wav
+/home/rodrigo/final_project/test_dataset/dog/3c1e12cf_nohash_1.wav
+/home/rodrigo/final_project/test_dataset/dog/3bdf05d3_nohash_1.wav

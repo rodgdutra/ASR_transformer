@@ -1,0 +1,5 @@
+Occurrences: zero=5 dog=5 house=5 happy=5 cat=5 
+Errors: zero=2 dog=0 house=4 happy=1 cat=2 
+Matches: zero=3 dog=5 house=1 happy=4 cat=3 
+Error probability: zero=0.40 dog=0.00 house=0.80 happy=0.20 cat=0.40 
+Final results: 16 matches and 9 errors. Error: 36.0 %.
