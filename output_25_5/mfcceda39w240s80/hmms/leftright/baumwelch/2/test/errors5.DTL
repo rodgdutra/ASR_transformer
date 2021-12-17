@@ -1,0 +1,10 @@
+DataLocator.Type = LABELS_AND_ENDPOINTS
+END_OF_HEADER
+/home/rodrigo/final_project/test_dataset/zero/1f3bece8_nohash_2.wav 1 0 15999 1 1*81|2*89|3*27 0 1*93|2*67|3*37 2 1*86|2*88|3*23 3 1*88|2*82|3*27 4 1*67|2*92|3*38 #(zero => dog)
+/home/rodrigo/final_project/test_dataset/zero/1f3bece8_nohash_1.wav 1 0 15999 1 1*69|2*98|3*30 2 1*71|2*106|3*20 0 1*95|2*64|3*38 3 1*84|2*82|3*31 4 1*68|2*109|3*20 #(zero => dog)
+/home/rodrigo/final_project/test_dataset/dog/3bfd30e6_nohash_0.wav 1 0 15999 4 1*7|2*98|3*92 1 1*30|2*56|3*111 3 1*30|2*74|3*93 0 1*42|2*1|3*154 2 1*30|2*58|3*109 #(dog => cat)
+/home/rodrigo/final_project/test_dataset/house/6c6aa323_nohash_0.wav 1 0 15999 1 1*56|2*28|3*113 3 1*56|2*21|3*120 2 1*55|2*34|3*108 4 1*26|2*91|3*80 0 1*60|2*19|3*118 #(house => dog)
+/home/rodrigo/final_project/test_dataset/house/6c9a1ac2_nohash_1.wav 1 0 15999 3 1*106|2*90|3*1 2 1*106|2*75|3*16 4 1*64|2*132|3*1 1 1*64|2*130|3*3 0 1*195|2*1|3*1 #(house => happy)
+/home/rodrigo/final_project/test_dataset/happy/2e8c59f7_nohash_0.wav 1 0 15999 4 1*141|2*7|3*49 1 1*141|2*44|3*12 2 1*143|2*52|3*2 3 1*144|2*51|3*2 0 1*149|2*21|3*27 #(happy => cat)
+/home/rodrigo/final_project/test_dataset/cat/3a69f765_nohash_0.wav 1 0 15999 3 1*2|2*130|3*65 4 1*28|2*168|3*1 1 1*28|2*83|3*86 0 1*132|2*1|3*64 2 1*31|2*71|3*95 #(cat => happy)
+/home/rodrigo/final_project/test_dataset/cat/3a53b856_nohash_0.wav 1 0 15999 3 1*150|2*41|3*6 1 1*150|2*37|3*10 4 1*150|2*46|3*1 2 1*158|2*32|3*7 0 1*1|2*1|3*195 #(cat => happy)

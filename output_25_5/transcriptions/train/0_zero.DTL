@@ -1,0 +1,29 @@
+NumberOfLabels = 1
+Labels = zero
+DataLocator.Type = JUST_FILE
+END_OF_HEADER
+/home/rodrigo/final_project/train_dataset/zero/0a2b400e_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0a196374_nohash_2.wav
+/home/rodrigo/final_project/train_dataset/zero/0b56bcfe_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0b56bcfe_nohash_1.wav
+/home/rodrigo/final_project/train_dataset/zero/0b09edd3_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0a2b400e_nohash_1.wav
+/home/rodrigo/final_project/train_dataset/zero/0a2b400e_nohash_2.wav
+/home/rodrigo/final_project/train_dataset/zero/0b7ee1a0_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0b7ee1a0_nohash_3.wav
+/home/rodrigo/final_project/train_dataset/zero/0ba018fc_nohash_2.wav
+/home/rodrigo/final_project/train_dataset/zero/0ab3b47d_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0b7ee1a0_nohash_2.wav
+/home/rodrigo/final_project/train_dataset/zero/0a2b400e_nohash_3.wav
+/home/rodrigo/final_project/train_dataset/zero/0a2b400e_nohash_4.wav
+/home/rodrigo/final_project/train_dataset/zero/0a196374_nohash_1.wav
+/home/rodrigo/final_project/train_dataset/zero/0a196374_nohash_3.wav
+/home/rodrigo/final_project/train_dataset/zero/0a196374_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0ba018fc_nohash_0.wav
+/home/rodrigo/final_project/train_dataset/zero/0b7ee1a0_nohash_4.wav
+/home/rodrigo/final_project/train_dataset/zero/0ba018fc_nohash_1.wav
+/home/rodrigo/final_project/train_dataset/zero/0ba018fc_nohash_3.wav
+/home/rodrigo/final_project/train_dataset/zero/0ba018fc_nohash_4.wav
+/home/rodrigo/final_project/train_dataset/zero/0a196374_nohash_4.wav
+/home/rodrigo/final_project/train_dataset/zero/0b7ee1a0_nohash_1.wav
+/home/rodrigo/final_project/train_dataset/zero/0b56bcfe_nohash_2.wav

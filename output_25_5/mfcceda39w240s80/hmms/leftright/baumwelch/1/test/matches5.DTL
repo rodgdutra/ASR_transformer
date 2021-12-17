@@ -1,0 +1,18 @@
+DataLocator.Type = LABELS_AND_ENDPOINTS
+END_OF_HEADER
+/home/rodrigo/final_project/test_dataset/zero/1ed557b9_nohash_0.wav 1 0 15999 0 1*87|2*66|3*44 3 1*53|2*143|3*1 4 1*53|2*61|3*83 1 1*53|2*143|3*1 2 1*55|2*141|3*1 #(zero)
+/home/rodrigo/final_project/test_dataset/zero/1ed0b13d_nohash_3.wav 1 0 15999 0 1*90|2*45|3*62 4 1*63|2*27|3*107 3 1*63|2*26|3*108 1 1*63|2*81|3*53 2 1*65|2*84|3*48 #(zero)
+/home/rodrigo/final_project/test_dataset/zero/1f3bece8_nohash_0.wav 1 0 15999 0 1*97|2*71|3*29 4 1*60|2*38|3*99 1 1*61|2*127|3*9 2 1*63|2*124|3*10 3 1*62|2*98|3*37 #(zero)
+/home/rodrigo/final_project/test_dataset/dog/3bfd30e6_nohash_0.wav 1 0 15999 1 1*30|2*52|3*115 4 1*30|2*10|3*157 0 1*41|2*14|3*142 3 1*30|2*11|3*156 2 1*31|2*44|3*122 #(dog)
+/home/rodrigo/final_project/test_dataset/dog/3bdf05d3_nohash_0.wav 1 0 15999 1 1*61|2*75|3*61 4 1*60|2*10|3*127 2 1*63|2*74|3*60 3 1*61|2*9|3*127 0 1*69|2*47|3*81 #(dog)
+/home/rodrigo/final_project/test_dataset/dog/3c1e12cf_nohash_0.wav 1 0 15603 1 1*71|2*28|3*94 4 1*71|2*12|3*110 3 1*71|2*14|3*108 2 1*73|2*28|3*92 0 1*83|2*11|3*99 #(dog)
+/home/rodrigo/final_project/test_dataset/dog/3c1e12cf_nohash_1.wav 1 0 15999 1 1*34|2*67|3*96 4 1*34|2*11|3*152 2 1*36|2*67|3*94 3 1*35|2*10|3*152 0 1*45|2*49|3*103 #(dog)
+/home/rodrigo/final_project/test_dataset/dog/3bdf05d3_nohash_1.wav 1 0 15999 1 1*61|2*81|3*55 4 1*61|2*10|3*126 2 1*63|2*79|3*55 3 1*61|2*82|3*54 0 1*70|2*48|3*79 #(dog)
+/home/rodrigo/final_project/test_dataset/house/6c9a1ac2_nohash_2.wav 1 0 15999 2 1*89|2*69|3*39 1 1*87|2*109|3*1 3 1*88|2*108|3*1 4 1*87|2*72|3*38 0 1*195|2*1|3*1 #(house)
+/home/rodrigo/final_project/test_dataset/happy/3a3ee7ed_nohash_0.wav 1 0 15999 3 1*21|2*86|3*90 0 1*106|2*67|3*24 4 1*8|2*180|3*9 1 1*8|2*182|3*7 2 1*24|2*165|3*8 #(happy)
+/home/rodrigo/final_project/test_dataset/happy/2fee065a_nohash_0.wav 1 0 15999 3 1*85|2*58|3*54 1 1*84|2*98|3*15 4 1*84|2*13|3*100 2 1*88|2*97|3*12 0 1*143|2*27|3*27 #(happy)
+/home/rodrigo/final_project/test_dataset/happy/2f0a410b_nohash_0.wav 1 0 15999 3 1*65|2*76|3*56 0 1*140|2*30|3*27 4 1*65|2*111|3*21 1 1*86|2*100|3*11 2 1*89|2*90|3*18 #(happy)
+/home/rodrigo/final_project/test_dataset/happy/2f0a410b_nohash_1.wav 1 0 15999 3 1*91|2*58|3*48 4 1*66|2*130|3*1 1 1*92|2*104|3*1 0 1*149|2*29|3*19 2 1*99|2*92|3*6 #(happy)
+/home/rodrigo/final_project/test_dataset/cat/3a3ee7ed_nohash_0.wav 1 0 15999 4 1*1|2*190|3*6 3 1*1|2*192|3*4 1 1*1|2*191|3*5 0 1*187|2*1|3*9 2 1*65|2*113|3*19 #(cat)
+/home/rodrigo/final_project/test_dataset/cat/3a3ee7ed_nohash_1.wav 1 0 15999 4 1*1|2*190|3*6 3 1*1|2*192|3*4 1 1*1|2*191|3*5 0 1*187|2*1|3*9 2 1*65|2*113|3*19 #(cat)
+/home/rodrigo/final_project/test_dataset/cat/3a69f765_nohash_0.wav 1 0 15999 4 1*28|2*20|3*149 3 1*2|2*135|3*60 1 1*28|2*75|3*94 0 1*127|2*1|3*69 2 1*31|2*63|3*103 #(cat)

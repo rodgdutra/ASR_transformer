@@ -1,0 +1,100 @@
+Date = 17/December/02021 at 03:03:31 PM.
+Processing file /home/rodrigo/final_project/output_2/mfcceda39w240s80/features/train/0_zero.FEA with 100 patterns.
+Baum-Welch
+0 | average log prob./frame=-65.862, /token=-1.29E4
+1 | average log prob./frame=-64.344, /token=-1.26E4, convergence=297.589
+2 | average log prob./frame=-63.215, /token=-1.24E4, convergence=221.537
+3 | average log prob./frame=-63.154, /token=-1.24E4, convergence=11.828
+4 | average log prob./frame=-63.110, /token=-1.24E4, convergence=8.797
+5 | average log prob./frame=-63.055, /token=-1.24E4, convergence=10.618
+6 | average log prob./frame=-62.994, /token=-1.24E4, convergence=12.099
+7 | average log prob./frame=-62.942, /token=-1.23E4, convergence=10.151
+8 | average log prob./frame=-62.910, /token=-1.23E4, convergence=6.257
+9 | average log prob./frame=-62.887, /token=-1.23E4, convergence=4.474
+10| average log prob./frame=-62.881, /token=-1.23E4, convergence=1.229
+11| average log prob./frame=-62.873, /token=-1.23E4, convergence=1.497
+12| average log prob./frame=-62.864, /token=-1.23E4, convergence=1.847
+13| average log prob./frame=-62.854, /token=-1.23E4, convergence=1.930
+14| average log prob./frame=-62.837, /token=-1.23E4, convergence=3.259
+15| average log prob./frame=-62.818, /token=-1.23E4, convergence=3.751
+16| average log prob./frame=-62.795, /token=-1.23E4, convergence=4.510
+17| average log prob./frame=-62.763, /token=-1.23E4, convergence=6.413
+18| average log prob./frame=-62.701, /token=-1.23E4, convergence=12.187
+19| average log prob./frame=-62.667, /token=-1.23E4, convergence=6.502
+Iterations = 20.
+Date = 17/December/02021 at 03:03:31 PM.
+Processing file /home/rodrigo/final_project/output_2/mfcceda39w240s80/features/train/1_dog.FEA with 100 patterns.
+Baum-Welch
+0 | average log prob./frame=-67.307, /token=-1.29E4
+1 | average log prob./frame=-66.203, /token=-1.27E4, convergence=211.300
+2 | average log prob./frame=-64.724, /token=-1.24E4, convergence=283.112
+3 | average log prob./frame=-64.441, /token=-1.23E4, convergence=54.075
+4 | average log prob./frame=-64.140, /token=-1.23E4, convergence=57.562
+5 | average log prob./frame=-63.981, /token=-1.22E4, convergence=30.398
+6 | average log prob./frame=-63.923, /token=-1.22E4, convergence=11.046
+7 | average log prob./frame=-63.909, /token=-1.22E4, convergence=2.724
+8 | average log prob./frame=-63.903, /token=-1.22E4, convergence=1.275
+9 | average log prob./frame=-63.886, /token=-1.22E4, convergence=3.102
+10| average log prob./frame=-63.882, /token=-1.22E4, convergence=0.769
+11| average log prob./frame=-63.881, /token=-1.22E4, convergence=0.220
+12| average log prob./frame=-63.881, /token=-1.22E4, convergence=0.095
+13| average log prob./frame=-63.881, /token=-1.22E4, convergence=0.018
+14| average log prob./frame=-63.881, /token=-1.22E4, convergence=0.004
+15| average log prob./frame=-63.881, /token=-1.22E4, convergence=0.000
+Iterations = 16.
+Date = 17/December/02021 at 03:03:31 PM.
+Processing file /home/rodrigo/final_project/output_2/mfcceda39w240s80/features/train/2_house.FEA with 100 patterns.
+Baum-Welch
+0 | average log prob./frame=-66.632, /token=-1.27E4
+1 | average log prob./frame=-65.598, /token=-1.25E4, convergence=196.416
+2 | average log prob./frame=-64.590, /token=-1.23E4, convergence=191.321
+3 | average log prob./frame=-64.504, /token=-1.23E4, convergence=16.329
+4 | average log prob./frame=-64.474, /token=-1.22E4, convergence=5.776
+5 | average log prob./frame=-64.465, /token=-1.22E4, convergence=1.729
+6 | average log prob./frame=-64.461, /token=-1.22E4, convergence=0.727
+7 | average log prob./frame=-64.460, /token=-1.22E4, convergence=0.153
+8 | average log prob./frame=-64.460, /token=-1.22E4, convergence=0.018
+9 | average log prob./frame=-64.460, /token=-1.22E4, convergence=0.002
+10| average log prob./frame=-64.460, /token=-1.22E4, convergence=9.77E-4
+11| average log prob./frame=-64.460, /token=-1.22E4, convergence=-0.004
+12| average log prob./frame=-64.460, /token=-1.22E4, convergence=0.003
+13| average log prob./frame=-64.460, /token=-1.22E4, convergence=9.77E-4
+14| average log prob./frame=-64.460, /token=-1.22E4, convergence=-0.003
+15| average log prob./frame=-64.460, /token=-1.22E4, convergence=0.003
+16| average log prob./frame=-64.460, /token=-1.22E4, convergence=-0.003
+17| average log prob./frame=-64.460, /token=-1.22E4, convergence=0.003
+18| average log prob./frame=-64.460, /token=-1.22E4, convergence=-9.77E-4
+19| average log prob./frame=-64.460, /token=-1.22E4, convergence=-0.004
+Iterations = 20.
+Date = 17/December/02021 at 03:03:32 PM.
+Processing file /home/rodrigo/final_project/output_2/mfcceda39w240s80/features/train/3_happy.FEA with 100 patterns.
+Baum-Welch
+0 | average log prob./frame=-68.103, /token=-1.28E4
+1 | average log prob./frame=-67.028, /token=-1.26E4, convergence=201.920
+2 | average log prob./frame=-65.660, /token=-1.23E4, convergence=256.882
+3 | average log prob./frame=-65.568, /token=-1.23E4, convergence=17.291
+4 | average log prob./frame=-65.542, /token=-1.23E4, convergence=4.828
+5 | average log prob./frame=-65.533, /token=-1.23E4, convergence=1.642
+6 | average log prob./frame=-65.530, /token=-1.23E4, convergence=0.544
+7 | average log prob./frame=-65.530, /token=-1.23E4, convergence=0.073
+8 | average log prob./frame=-65.530, /token=-1.23E4, convergence=0.000
+Iterations = 9.
+Date = 17/December/02021 at 03:03:32 PM.
+Processing file /home/rodrigo/final_project/output_2/mfcceda39w240s80/features/train/4_cat.FEA with 100 patterns.
+Baum-Welch
+0 | average log prob./frame=-66.538, /token=-1.26E4
+1 | average log prob./frame=-65.486, /token=-1.24E4, convergence=199.942
+2 | average log prob./frame=-64.227, /token=-1.22E4, convergence=239.316
+3 | average log prob./frame=-63.898, /token=-1.21E4, convergence=62.576
+4 | average log prob./frame=-63.785, /token=-1.21E4, convergence=21.362
+5 | average log prob./frame=-63.765, /token=-1.21E4, convergence=3.966
+6 | average log prob./frame=-63.760, /token=-1.21E4, convergence=0.879
+7 | average log prob./frame=-63.757, /token=-1.21E4, convergence=0.481
+8 | average log prob./frame=-63.757, /token=-1.21E4, convergence=0.025
+9 | average log prob./frame=-63.757, /token=-1.21E4, convergence=0.013
+10| average log prob./frame=-63.757, /token=-1.21E4, convergence=-0.003
+11| average log prob./frame=-63.757, /token=-1.21E4, convergence=0.004
+12| average log prob./frame=-63.757, /token=-1.21E4, convergence=-9.77E-4
+13| average log prob./frame=-63.757, /token=-1.21E4, convergence=0.002
+14| average log prob./frame=-63.757, /token=-1.21E4, convergence=0.000
+Iterations = 15.

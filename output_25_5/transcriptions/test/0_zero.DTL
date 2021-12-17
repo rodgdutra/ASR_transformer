@@ -1,0 +1,9 @@
+NumberOfLabels = 1
+Labels = zero
+DataLocator.Type = JUST_FILE
+END_OF_HEADER
+/home/rodrigo/final_project/test_dataset/zero/1ed557b9_nohash_0.wav
+/home/rodrigo/final_project/test_dataset/zero/1ed0b13d_nohash_3.wav
+/home/rodrigo/final_project/test_dataset/zero/1f3bece8_nohash_0.wav
+/home/rodrigo/final_project/test_dataset/zero/1f3bece8_nohash_2.wav
+/home/rodrigo/final_project/test_dataset/zero/1f3bece8_nohash_1.wav

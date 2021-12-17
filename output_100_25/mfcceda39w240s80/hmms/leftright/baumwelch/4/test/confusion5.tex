@@ -1,0 +1,26 @@
+\documentclass[10pt]{article}
+%In case you are having problems to print the table
+%try 'landscape', disabling the above line and enabling the lines below:
+%\documentclass[10pt,landscape]{article}
+%\special{landscape}
+%\topmargin 0in
+%\headheight 0in
+%\headsep 0in
+%\textheight 9in
+%\textwidth 7.5in
+%\oddsidemargin -.5in
+%\evensidemargin -.5in
+\begin{document}
+\tiny
+\begin{tabular}{|@{}c@{}||@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|@{}c@{}|}
+\hline
+\multicolumn{8}{c}{Table: Classification of phonemes. Line indicates the correct phoneme and column indicates the recognized phoneme.} \\ \hline \hline
+Phnm & zero & dog & house & happy & cat & occur. & error \\ \hline
+zero & 23 & 0 & 0 & 1 & 1 & 25 & 0.08 \\ \hline
+dog & 1 & 20 & 0 & 1 & 3 & 25 & 0.20 \\ \hline
+house & 0 & 0 & 23 & 0 & 2 & 25 & 0.08 \\ \hline
+happy & 1 & 0 & 0 & 15 & 9 & 25 & 0.40 \\ \hline
+cat & 1 & 1 & 2 & 4 & 17 & 25 & 0.32 \\ \hline
+\end{tabular}
+
+\end{document}
