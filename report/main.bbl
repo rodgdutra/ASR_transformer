@@ -1,0 +1,59 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Chen, Fan e Panda 2021]{chen2021crossvit}
+\abntrefinfo{Chen, Fan e Panda}{CHEN; FAN; PANDA}{2021}
+{CHEN, C.-F.; FAN, Q.; PANDA, R. Crossvit: Cross-attention multi-scale vision
+  transformer for image classification.
+\textbf{arXiv preprint arXiv:2103.14899}, 2021.}
+
+\bibitem[Dutra 2021]{Rd2021}
+\abntrefinfo{Dutra}{DUTRA}{2021}
+{DUTRA, R.~G. \textbf{ASR transformer}. [S.l.]: GitHub, 2021.
+  \url{https://github.com/rodgdutra/ASR_transformer}.}
+
+\bibitem[Klautau 2021]{Ak2021}
+\abntrefinfo{Klautau}{KLAUTAU}{2021}
+{KLAUTAU, A. \textbf{Spock: Easy speech recognition}. [S.l.]: GitHub, 2021.
+  \url{https://github.com/aldebaro/easy-speech-recognition}.}
+
+\bibitem[Lu et al. 2020]{lu2020exploring}
+\abntrefinfo{Lu et al.}{LU et al.}{2020}
+{LU, L. et al. Exploring transformers for large-scale speech recognition.
+\textbf{arXiv preprint arXiv:2005.09684}, 2020.}
+
+\bibitem[Vaswani et al. 2017]{vaswani2017attention}
+\abntrefinfo{Vaswani et al.}{VASWANI et al.}{2017}
+{VASWANI, A. et al. Attention is all you need. In:  \textbf{Advances in neural
+  information processing systems}. [S.l.: s.n.], 2017. p. 5998--6008.}
+
+\bibitem[Warden 2018]{warden2018speech}
+\abntrefinfo{Warden}{WARDEN}{2018}
+{WARDEN, P. Speech commands: A dataset for limited-vocabulary speech
+  recognition.
+\textbf{arXiv preprint arXiv:1804.03209}, 2018.}
+
+\bibitem[Wu et al. 2020]{wu2020deep}
+\abntrefinfo{Wu et al.}{WU et al.}{2020}
+{WU, N. et al. Deep transformer models for time series forecasting: The
+  influenza prevalence case.
+\textbf{arXiv preprint arXiv:2001.08317}, 2020.}
+
+\bibitem[Zeng et al. 2021]{zeng2021semi}
+\abntrefinfo{Zeng et al.}{ZENG et al.}{2021}
+{ZENG, J. et al. Semi-supervised training of transformer and causal dilated
+  convolution network with applications to speech topic classification.
+\textbf{Applied Sciences}, Multidisciplinary Digital Publishing Institute,
+  v.~11, n.~12, p.~5712, 2021.}
+
+\bibitem[Zhou et al. 2021]{zhou2021informer}
+\abntrefinfo{Zhou et al.}{ZHOU et al.}{2021}
+{ZHOU, H. et al. Informer: Beyond efficient transformer for long sequence
+  time-series forecasting. In:  \textbf{Proceedings of AAAI}. [S.l.: s.n.],
+  2021.}
+
+\end{thebibliography}
