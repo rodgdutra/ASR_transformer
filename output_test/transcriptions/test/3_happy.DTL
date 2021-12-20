@@ -1,9 +1,0 @@
-NumberOfLabels = 1
-Labels = happy
-DataLocator.Type = JUST_FILE
-END_OF_HEADER
-/home/rodrigo/final_project/test_dataset/happy/2e8c59f7_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/happy/3a3ee7ed_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/happy/2fee065a_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/happy/2f0a410b_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/happy/2f0a410b_nohash_1.wav

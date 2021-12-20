@@ -1,9 +1,0 @@
-NumberOfLabels = 1
-Labels = cat
-DataLocator.Type = JUST_FILE
-END_OF_HEADER
-/home/rodrigo/final_project/test_dataset/cat/3a3ee7ed_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/cat/2fee065a_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/cat/3a3ee7ed_nohash_1.wav
-/home/rodrigo/final_project/test_dataset/cat/3a69f765_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/cat/3a53b856_nohash_0.wav

@@ -1,9 +1,0 @@
-NumberOfLabels = 1
-Labels = house
-DataLocator.Type = JUST_FILE
-END_OF_HEADER
-/home/rodrigo/final_project/test_dataset/house/6c6aa323_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/house/6c9a1ac2_nohash_0.wav
-/home/rodrigo/final_project/test_dataset/house/6c9a1ac2_nohash_1.wav
-/home/rodrigo/final_project/test_dataset/house/6c9a1ac2_nohash_2.wav
-/home/rodrigo/final_project/test_dataset/house/6c0f6493_nohash_0.wav
